@@ -1,0 +1,14 @@
+{
+  "name": "oop-project",
+  "version": "1.0.0",
+  "description": "An oop project that shows the concept of oop",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jogbojogbo",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-core": "^6.26.0"
+  }
+}
